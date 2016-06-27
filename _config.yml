@@ -1,14 +1,29 @@
+name: 'Recycle Vanuatu '
+favicon: null
 layout_spectrum: 0.912766
 typography_spectrum: 0.1255319
+title: Vanuatu test
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  lightness: 0.8851064
-  brandStrength: 0.4212766
-  saturation: 0.5319149
-  rhythmicContrast: 0.3212766
   brandColors:
     - '#FEFFFF'
     - '#130A12'
     - '#605D54'
     - '#8C8C84'
     - '#B4B7AE'
-name: 'Recycle Vanuatu '
+  brandStrength: 0.4212766
+  lightness: 0.8851064
+  saturation: 0.5319149
+  rhythmicContrast: 0.3212766
+purpose: []
