@@ -1,14 +1,14 @@
-layout_spectrum: 0.3901282
-typography_spectrum: 0.9832705
+layout_spectrum: 0.2170213
+typography_spectrum: 0.1255319
 color:
-  lightness: 0.08297241
-  brandStrength: 0.9041017
-  saturation: 0.4097824
-  rhythmicContrast: 0.1184426
+  lightness: 0.1765957
+  brandStrength: 0.8382978
+  saturation: 0.5319149
+  rhythmicContrast: 0.3212766
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FEFFFF'
+    - '#130A12'
+    - '#605D54'
+    - '#8C8C84'
+    - '#B4B7AE'
 name: 'Recycle Vanuatu '
