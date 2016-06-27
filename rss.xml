@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Recycle Vanuatu ]]></title>
         <description><![CDATA[Recycle Vanuatu ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/recycle-vanuatu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 11:02:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Jun 2016 11:08:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/recycle-vanuatu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bibi and I]]></title>
+            <description><![CDATA[<article><h1>Bibi and I</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5f616a3-dbbf-42ff-b02c-57b50101ddb6.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5f616a3-dbbf-42ff-b02c-57b50101ddb6.jpg</link>
+            <guid isPermaLink="false">746fc1b8-10c6-4520-9be9-2f765f109547</guid>
+            <pubDate>Mon, 27 Jun 2016 11:07:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Piki and I]]></title>
             <description><![CDATA[<article><h1>Piki and I</h1><p>Hello. This is my new website</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a03704b7021d93480a2eaf326023fc78/croprotate.jpg?cropheight=1280&cropwidth=960&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fac6a284b-1526-47e5-9865-ca7b517abf3c.jpg&x=0&y=0"></article>]]></description>
