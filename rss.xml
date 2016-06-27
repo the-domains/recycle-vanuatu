@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Recycle Vanuatu ]]></title>
+        <description><![CDATA[Recycle Vanuatu ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 27 Jun 2016 11:02:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Piki and I]]></title>
+            <description><![CDATA[<article><h1>Piki and I</h1><p>Hello. This is my new website</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a03704b7021d93480a2eaf326023fc78/croprotate.jpg?cropheight=1280&cropwidth=960&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fac6a284b-1526-47e5-9865-ca7b517abf3c.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac6a284b-1526-47e5-9865-ca7b517abf3c.jpg</link>
+            <guid isPermaLink="false">602e23d4-7009-4b02-b6e6-090202a1ee1c</guid>
+            <pubDate>Mon, 27 Jun 2016 11:02:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
