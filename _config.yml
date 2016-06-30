@@ -1,6 +1,6 @@
 name: 'Recycle Vanuatu '
 favicon: null
-layout_spectrum: 0.75638
+layout_spectrum: 0
 typography_spectrum: 0.19176
 title: Vanuatu test recycling plan
 cta:
@@ -22,7 +22,7 @@ color:
     - '#92d5c4'
     - '#58a3ac'
     - '#f32c33'
-  brandStrength: 0.75
+  brandStrength: 0.8125
   lightness: 0.875
   saturation: 0.125
   rhythmicContrast: 1
